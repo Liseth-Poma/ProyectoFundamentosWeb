@@ -1,0 +1,16 @@
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+/*Resolucion para dispositivos moviles muy pequeños*/
+@media(max-width: 575px) {
+}
+/*Resolucion para dispositivos moviles pequeños*/
+@media (min-width: 576px) and (max-width: 767px){
+}
+/*Resolucion para tablets*/
+@media (min-width: 768px) and (max-width: 991px){
+}
+/*Resolucion para pc de escritorio*/
+@media (min-width: 992px){
+}
